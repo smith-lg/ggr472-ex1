@@ -6,10 +6,6 @@ button.addEventListener("click", function(){
 });
 
 /*
-button.onclick = function(){
-    alert("You clicked me!");
-}
-
 function clicked() {
     console.log("You clicked me")
 }
